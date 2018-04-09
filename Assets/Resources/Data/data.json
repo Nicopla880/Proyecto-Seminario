@@ -1,0 +1,111 @@
+{
+    "weapons":
+            [
+                {
+                    "id":1,
+                    "price":275,
+                    "title":"Grissin Fino Blanco",
+					"damage":15
+					
+                },
+                {
+                    "id":2,
+                    "price":350,
+                    "title":"Grissin Fino con Salvado",
+					"damage":30
+                },
+		                {
+                    "id":3,
+                    "price":425,
+                    "title":"Grissin Blanco",
+					"damage":50
+                },
+		        {
+                    "id":4,
+                    "price":500,
+                    "title":"Grissin Croccanti",
+					"damage":85
+                },
+				{
+                    "id":5,
+                    "price":575,
+                    "title":"Grissin  Diet Blancos",
+					"damage":115
+                },
+                {
+                    "id":6,
+                    "price":650,
+                    "title":"Diet con Salvado",
+					"damage":150
+                }
+
+
+            ],
+
+	"shields":
+            [
+                {
+                    "id":1,
+                    "price":150,
+                    "title":"Pamela Coco",
+					"defence":50
+					
+                },
+                {
+                    "id":2,
+                    "price":200,
+                    "title":"Pamela Limón",
+					"defence":100
+                },
+                {
+                    "id":3,
+                    "price":250,
+                    "title":"Pamela Scones",
+					"defence":150
+                },
+		        {
+                    "id":4,
+                    "price":300,
+                    "title":"Pamela Manteca",
+					"defence":200
+                },
+		        {
+                    "id":5,
+                    "price":400,
+                    "title":"Pamela Chips",
+					"defence":300
+                }
+
+
+            ],
+
+
+	"enemys":
+            [
+                {
+                    "id":1,
+                    "defence":10,
+					"damage":15,
+					"speed":1.5
+					
+                },
+                {
+                    "id":2,
+                    "defence":20,
+					"damage":30,
+					"speed":1.6
+
+                },
+                {
+                    "id":3,
+                    "defence":30,
+					"damage":45,
+					"speed":2
+                }
+
+
+            ]
+
+
+
+}

@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 2f499679beaff9643965e2080ba17e68
+timeCreated: 1498849959
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: compra_panaderia_menu_2_0
+    21300002: compra_panaderia_menu_2_1
+    21300004: compra_panaderia_menu_2_2
+    21300006: compra_panaderia_menu_2_3
+    21300008: compra_panaderia_menu_2_4
+    21300010: compra_panaderia_menu_2_5
+    21300012: compra_panaderia_menu_2_6
+    21300014: compra_panaderia_menu_2_7
+    21300016: compra_panaderia_menu_2_8
+    21300018: compra_panaderia_menu_2_9
+    21300020: compra_panaderia_menu_2_10
+    21300022: compra_panaderia_menu_2_11
+    21300024: compra_panaderia_menu_2_12
+    21300026: compra_panaderia_menu_2_13
+    21300028: compra_panaderia_menu_2_14
+    21300030: compra_panaderia_menu_2_15
+    21300032: compra_panaderia_menu_2_16
+    21300034: compra_panaderia_menu_2_17
+    21300036: compra_panaderia_menu_2_18
+    21300038: compra_panaderia_menu_2_19
+    21300040: compra_panaderia_menu_2_20
+    21300042: compra_panaderia_menu_2_21
+    21300044: compra_panaderia_menu_2_22
+    21300046: compra_panaderia_menu_2_23
+    21300048: compra_panaderia_menu_2_24
+    21300050: compra_panaderia_menu_2_25
+    21300052: compra_panaderia_menu_2_26
+    21300054: compra_panaderia_menu_2_27
+    21300056: compra_panaderia_menu_2_28
+    21300058: compra_panaderia_menu_2_29
+    21300060: compra_panaderia_menu_2_30
+    21300062: compra_panaderia_menu_2_31
+    21300064: compra_panaderia_menu_2_32
+    21300066: compra_panaderia_menu_2_33
+    21300068: compra_panaderia_menu_2_34
+    21300070: compra_panaderia_menu_2_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 158
+        width: 445
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 460
+        width: 245
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 403
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_3
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 403
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 403
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_5
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 403
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 403
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 402
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 403
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_9
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 402
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_10
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 402
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_11
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 403
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_12
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 403
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 312
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 318
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_15
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 318
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_16
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 318
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_17
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 318
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_18
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 317
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_19
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 318
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_20
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 317
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_21
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 317
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_22
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 318
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_23
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 318
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 220
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_25
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 220
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 220
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_27
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 220
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_28
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 219
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 220
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_30
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 220
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_31
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 220
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_32
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 220
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_33
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 220
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 45
+        width: 376
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: compra_panaderia_menu_2_35
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 124
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
